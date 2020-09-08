@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="328.235" Width="442.647">
-    <Grid Margin="0,0,2,6">
+        Title="MainWindow" Height="328.235" Width="442.647" ResizeMode="NoResize">
+    <Grid Margin="-7,0,-26,-19"
+          >
         <Grid.Background>
             <ImageBrush ImageSource="rain dark.jpg"/>
         </Grid.Background>
@@ -15,8 +16,8 @@
             <ColumnDefinition Width="161*"/>
             <ColumnDefinition Width="3*"/>
         </Grid.ColumnDefinitions>
-        <TextBox x:Name="CityName" HorizontalAlignment="Left" Height="30" Margin="129,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="#FF22232B" Grid.ColumnSpan="2" Foreground="#FF606489" BorderBrush="Black" />
-        <Button Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="129,157,0,0" Height="30" Background="#FF22232B" Grid.ColumnSpan="2" Click="Button_Click" Foreground="#FF606489" BorderBrush="Black"/>
+        <TextBox x:Name="CityName" HorizontalAlignment="Left" Height="30" Margin="122,84,0,0" Width="196" Background="#FF22232B" Grid.ColumnSpan="2" Foreground="#FF606489" BorderBrush="Black" FontWeight="ExtraLight" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" FontSize="15" SelectionBrush="#FF0D79CF" TextWrapping="Wrap" TextAlignment="Center" />
+        <Button Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="196" Margin="122,148,0,0" Height="30" Background="#FF22232B" Grid.ColumnSpan="2" Click="Button_Click" Foreground="#FF606489" BorderBrush="Black" FontWeight="ExtraLight" FontSize="15"/>
 
     </Grid>
 </Window>
