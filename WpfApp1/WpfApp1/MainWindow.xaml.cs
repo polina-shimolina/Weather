@@ -33,8 +33,8 @@ namespace WpfApp1
 
             weath.ChangeRequest(url); 
             weath.Search();
-
             weath.MessageShow();
+            url = string.Empty;
         }
     }
 }
