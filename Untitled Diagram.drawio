@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T02:18:45.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MGbm4lxWYhErOcfBos5l" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T02:20:00.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gyxT7LfM6KBsOA6n_rP9" version="15.7.1" type="github">
   <diagram id="AqqRs6SGASjGlOZvsNT_" name="Page-1">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
           <mxGeometry x="300" y="200" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BXCecre0aYI0UWFLJ0d8-6" value="Поставщик-склад" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BXCecre0aYI0UWFLJ0d8-47">
-          <mxGeometry width="60" height="30" as="geometry" />
+          <mxGeometry y="7" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BXCecre0aYI0UWFLJ0d8-14" value="Номер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BXCecre0aYI0UWFLJ0d8-47">
           <mxGeometry y="50" width="60" height="40" as="geometry" />
